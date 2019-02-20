@@ -20,6 +20,7 @@ import com.ukcl.driverapp.utills.PreferenceHelper;
  * @author Kishan H Dhamat
  * 
  */
+
 public abstract class BaseMapFragment extends Fragment implements
 		OnClickListener, AsyncTaskCompleteListener {
 	protected MapActivity mapActivity;

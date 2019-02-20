@@ -19,10 +19,12 @@ import com.ukcl.driverapp.utills.AndyUtils;
 import com.ukcl.driverapp.utills.AppLog;
 import com.ukcl.driverapp.utills.PreferenceHelper;
 
+
 /**
  * @author Kishan H Dhamat
  * 
  */
+
 public class SettingActivity extends ActionBarBaseActivitiy implements
 		OnCheckedChangeListener, AsyncTaskCompleteListener {
 	private Switch switchSetting;

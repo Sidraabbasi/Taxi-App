@@ -15,6 +15,7 @@ import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
 
+
 import com.androidquery.AQuery;
 import com.ukcl.driverapp.R;
 import com.ukcl.driverapp.base.BaseMapFragment;

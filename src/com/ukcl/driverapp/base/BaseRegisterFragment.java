@@ -11,6 +11,7 @@ import com.ukcl.driverapp.RegisterActivity;
  * @author Kishan H Dhamat
  * 
  */
+
 public abstract class BaseRegisterFragment extends Fragment implements
 		OnClickListener {
 	protected RegisterActivity registerActivity;

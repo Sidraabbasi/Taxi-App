@@ -26,7 +26,6 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Toast;
-
 import com.androidquery.AQuery;
 import com.androidquery.callback.ImageOptions;
 import com.facebook.LoginActivity;

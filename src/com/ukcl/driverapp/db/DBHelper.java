@@ -4,6 +4,7 @@ import android.content.Context;
 
 import com.ukcl.driverapp.model.User;
 
+
 public class DBHelper {
 
 	private DBAdapter dbAdapter;

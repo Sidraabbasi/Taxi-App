@@ -28,6 +28,7 @@ public abstract class BaseSurgeActivity extends FragmentActivity {
     protected int getLayoutId() {
         return R.layout.map;
     }
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

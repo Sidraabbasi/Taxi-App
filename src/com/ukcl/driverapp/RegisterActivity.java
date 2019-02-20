@@ -22,6 +22,7 @@ import com.ukcl.driverapp.utills.AndyUtils;
 public class RegisterActivity extends ActionBarBaseActivitiy {
 	public ActionBar actionBar;
 	
+
 	private ProgressBar pbar;
 	
 

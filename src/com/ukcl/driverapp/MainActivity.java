@@ -20,6 +20,7 @@ import com.ukcl.driverapp.utills.AndyUtils;
 import com.ukcl.driverapp.utills.AppLog;
 import com.ukcl.driverapp.utills.PreferenceHelper;
 
+
 public class MainActivity extends Activity implements OnClickListener {
 
 	private boolean isRecieverRegister = false;
